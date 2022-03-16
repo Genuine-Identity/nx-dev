@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "nx",
     "postinstall": "node ./decorate-angular-cli.js && ngcc --properties es2015 browser module main",
-    "start": "nx serve --port 4209 && exit 1",
+    "start": "nx serve --port 4209",
     "build": "nx build",
     "test": "nx test"
   },
