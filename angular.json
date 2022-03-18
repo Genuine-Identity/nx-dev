@@ -1,7 +1,6 @@
 {
   "version": 2,
   "projects": {
-    "workspace": "apps/workspace",
-    "workspace-e2e": "apps/workspace-e2e"
+    "workspace": "apps/workspace"
   }
 }
