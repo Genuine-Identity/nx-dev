@@ -1,5 +1,5 @@
 npx create-nx-workspace --preset=angular workspace --directory ./
-
+npm add --dev @nrwl/storybook
 ---
 
 # Workspace
