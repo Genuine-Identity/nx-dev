@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "common-ui": "libs/common/ui",
     "workspace": "apps/workspace"
   }
 }
